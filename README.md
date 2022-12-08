@@ -2,6 +2,9 @@
 
 Check out my games/apps!
 
+## 4 - Rock, Paper, Scissors
+[Click here](https://replit.com/@MikeMaroney/Rock-Paper-Scissors?v=1)
+
 ## 3 - Choose Your Own Adventure
 [Click here](https://replit.com/@MikeMaroney/Treasure-Island-Game?v=1)
 
