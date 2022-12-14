@@ -3,7 +3,7 @@
 Check out my games/apps!
 
 ## 5 - Random Password Generator
-[Click here] (https://replit.com/@MikeMaroney/Random-Password-Generator?v=1)
+[Click here](https://replit.com/@MikeMaroney/Random-Password-Generator?v=1)
 
 ## 4 - Rock, Paper, Scissors
 [Click here](https://replit.com/@MikeMaroney/Rock-Paper-Scissors?v=1)
