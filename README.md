@@ -2,6 +2,9 @@
 
 Check out my games/apps!
 
+## 6 - Escape the Maze
+[Click here](https://reeborg.ca/reeborg.htmllang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+
 ## 5 - Random Password Generator
 [Click here](https://replit.com/@MikeMaroney/Random-Password-Generator?v=1)
 
