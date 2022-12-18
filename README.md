@@ -2,6 +2,9 @@
 
 Check out my games/apps!
 
+## 7 - Hangman
+[Click here](https://replit.com/@MikeMaroney/Hangman?v=1)
+
 ## 6 - Escape the Maze
 [Click here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
