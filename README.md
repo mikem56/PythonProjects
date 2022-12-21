@@ -2,6 +2,10 @@
 
 Check out my games/apps!
 
+
+## 8 - Caesar Cipher
+[Click here](https://replit.com/@MikeMaroney/caesar-cipher-4-start?v=1)
+
 ## 7 - Hangman
 [Click here](https://replit.com/@MikeMaroney/Hangman?v=1)
 
