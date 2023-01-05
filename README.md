@@ -2,6 +2,9 @@
 
 Check out my games/apps!
 
+## 10 - Calculator
+[Click here](https://replit.com/@MikeMaroney/calculator-start?v=1)
+
 ## 9 - Blind Auction
 [Click here](https://replit.com/@MikeMaroney/blind-auction-start?v=1)
 
