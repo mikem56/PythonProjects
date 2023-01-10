@@ -2,6 +2,9 @@
 
 Check out my games/apps!
 
+## 11 - Blackjack
+[Click here](https://replit.com/@MikeMaroney/Blackjack?v=1)
+
 ## 10 - Calculator
 [Click here](https://replit.com/@MikeMaroney/calculator-start?v=1)
 
